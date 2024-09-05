@@ -10,3 +10,4 @@ export interface PaymentDetails {
   method: PaymentMethod;
   cardNumber?: string;
 }
+
